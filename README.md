@@ -24,7 +24,6 @@ This backend powers the **Madhur Music Recommendation System**, a personalized m
 - **Secure Authentication** - Implements JWT-based authentication for user access.  
 - **Data Optimization** - Uses memory-efficient data processing techniques.
 
-
 ## **✨ Future Improvements**  
 - **Optimize recommendation models** for even better accuracy and diversity.  
 - **Improve API security** with advanced authentication mechanisms.  
