@@ -26,7 +26,6 @@ This backend powers the **Madhur Music Recommendation System**, a personalized m
 
 
 
-
 ## **✨ Future Improvements**  
 - **Optimize recommendation models** for even better accuracy and diversity.  
 - **Improve API security** with advanced authentication mechanisms.  
