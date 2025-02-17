@@ -4,7 +4,6 @@ This backend powers the **Madhur Music Recommendation System**, a personalized m
 
 
 
-
 ## **⚙️ Technologies Used**  
 - **FastAPI** - For building high-performance APIs.  
 - **MongoDB** - NoSQL database to store user and song data.  
