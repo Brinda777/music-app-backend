@@ -1,7 +1,6 @@
 ## **📌 Project Overview**  
 This backend powers the **Madhur Music Recommendation System**, a personalized music recommendation platform designed to enhance the listening experience for users, particularly females aged 18–23 in Nepal. The system leverages **content-based filtering and item-based collaborative filtering** to recommend songs based on user preferences, listening history, and song attributes such as danceability, energy, and tempo. The backend processes user interactions, manages song data, and ensures efficient recommendation generation.  
 
-
 ## **⚙️ Technologies Used**  
 - **FastAPI** - For building high-performance APIs.  
 - **MongoDB** - NoSQL database to store user and song data.  
