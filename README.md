@@ -9,7 +9,6 @@ This backend powers the **Madhur Music Recommendation System**, a personalized m
 - **Pandas** - For handling large datasets efficiently.  
 - **JWT Authentication** - Secure user login and data handling.  
 
-
 ## **📂 Project Structure**  
 - **`/src`** - Main source code  
   - **`/routes`** - API endpoints for fetching recommendations, user interactions, and song data.  
