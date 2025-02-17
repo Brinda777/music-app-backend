@@ -1,5 +1,3 @@
-# **📜 Project Description**  
-
 ## **📌 Project Overview**  
 This backend powers the **Madhur Music Recommendation System**, which provides personalized song recommendations using **content-based filtering and collaborative filtering**. It processes user interactions and music data to enhance user experience.  
 
