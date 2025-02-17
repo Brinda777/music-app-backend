@@ -12,7 +12,6 @@ This backend powers the **Madhur Music Recommendation System**, a personalized m
 
 
 
-
 ## **📂 Project Structure**  
 - **`/src`** - Main source code  
   - **`/routes`** - API endpoints for fetching recommendations, user interactions, and song data.  
