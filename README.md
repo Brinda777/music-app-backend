@@ -1,41 +1,27 @@
-## Sangeet Backend
+# **📜 Project Description**  
 
-## Table of contents
+## **📌 Project Overview**  
+This backend powers the **Sangeet Music Recommendation System**, which provides personalized song recommendations using **content-based filtering and collaborative filtering**. It processes user interactions and music data to enhance user experience.  
 
-- [Getting Started](#getting-started) - [Prerequisites](#Prerequisites) - [Setup](#Setup)
-- [Project Description](#project-description) - [Project Overview](#project-overview) - [Project Structure](#project-structure)
+## **📂 Project Structure**  
+- **`/src`** - Main source code  
+  - **`/routes`** - API endpoints  
+  - **`/controllers`** - Business logic for requests  
+  - **`/models`** - Database schemas (MongoDB)  
+  - **`/services`** - Handles recommendation logic  
+  - **`/config`** - Configuration files (DB connection, environment variables)  
 
-# Getting Started
+# **📩 API Access**  
+The admin can log in with the following credentials:  
+- **Email:** `admin@admin.com`  
+- **Password:** `password`  
 
-## Setup
+# **✨ Future Improvements**  
+- **Optimize recommendation model** for better accuracy.  
+- **Improve API security** and authentication mechanisms.  
+- **Enhance scalability** for handling large datasets efficiently.  
 
-### Prerequisites
+💡 **Contributions are welcome!** Feel free to fork the repo and submit a pull request. 🎵
+```
 
-- Nodejs >= 16
-- MongoDB
-
-### Local Development
-
-1. Clone the repository: https://github.com/st6003/backend-secb-bijaya143
-2. Run `npm install` to Install Dependencies.
-3. Copy contents of `.env.example` file to a new file `.env`, If you're on Mac OSX or Linux just run: `cp .env.example .env`
-4. Create an new database for the project: Use `MongoDB Atlas` or any preferred `mongoDB workbench`
-5. In the `.env` file, add the required credentials.
-6. Run `npm start` to start the application.
-7. That's it. Now, the project is up and running in your local machine.
-
-# Project Description
-
-### Project Overview
-
-An admin can access into the system by using the following credentials:
-
-- `email`=admin@admin.com
-- `password`=password
-
----
-
-### Project Structure
-
-- Everything is quite similar to default Express structure
-- All API Routes in src\routes\index.js
+This is properly formatted for a **GitHub README** file. Just replace `"yourusername"` with your actual GitHub username and update any details specific to your backend project. 🚀
