@@ -9,11 +9,6 @@ This backend powers the **Madhur Music Recommendation System**, which provides p
   - **`/services`** - Handles recommendation logic  
   - **`/config`** - Configuration files (DB connection, environment variables)  
 
-# **📩 API Access**  
-The admin can log in with the following credentials:  
-- **Email:** `admin@admin.com`  
-- **Password:** `password`  
-
 # **✨ Future Improvements**  
 - **Optimize recommendation model** for better accuracy.  
 - **Improve API security** and authentication mechanisms.  
