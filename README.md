@@ -22,7 +22,16 @@ This backend powers the **Madhur Music Recommendation System**, a personalized m
 - **Emotion-Based Recommendations** - Suggests songs based on mood-related audio features.  
 - **Scalable API** - Built with FastAPI for quick and efficient responses.  
 - **Secure Authentication** - Implements JWT-based authentication for user access.  
-- **Data Optimization** - Uses memory-efficient data processing techniques.  
+- **Data Optimization** - Uses memory-efficient data processing techniques.
+
+
+
+
+
+
+
+
+
 
 ## **✨ Future Improvements**  
 - **Optimize recommendation models** for even better accuracy and diversity.  
